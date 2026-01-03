@@ -1,7 +1,9 @@
 # Essential Needs and Services
-https://essential-needs-service-user.onrender.com/
-https://essential-needs-service-service-provider.onrender.com
- https://essential-needs-service-admin.onrender.com/
+User Panel: https://essential-needs-service-user.onrender.com/
+
+Service Provider Panel: https://essential-needs-service-service-provider.onrender.com
+
+Admin Panel: https://essential-needs-service-admin.onrender.com/
 
 📌 Project Overview
 
